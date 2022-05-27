@@ -1,6 +1,6 @@
 # Photo website project
 
-## websit
+## website
 ###### www.weiyuproj.space:3002/
 
 ## Run on local device
